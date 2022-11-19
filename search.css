@@ -39,11 +39,11 @@ a{
     padding-left: 120px;
     margin-left: -10px;
 }
-#CTA{
-    width: 100.39px;
-     height: 35.04px;
+#CTA {
+    width: 100px;
+    height: 35.04px;
     background-color: #000000;
     border-radius: 10px;
-    color:white;
-    margin-left: 150px;
-   }
+    color: white;
+    margin-left: 100px;
+}
