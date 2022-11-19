@@ -10,7 +10,10 @@
         function show()
 {
      imageFile=document.pharmaForm.pharma.value;
+    if(imageFile != "--SELECT--")
+    {
      document.getElementById('result').innerHTML="<img src=\'" +imageFile+"\'height=200 width=300/>";
+    }
 }
     </script>
 </head>
